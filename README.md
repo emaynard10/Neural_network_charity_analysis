@@ -34,3 +34,7 @@ To increase model performance, the analysis adds both hidden layers and neurons,
 
 ## Summary
 The model was not able to get over 73% accuracy with many changes tp the nueral network. This doens't mean that it can't, this model just didn't find the right combination. That is why it would be a good idea to try some other machine learning models to compare the performance and they might not be such a computational load, so could be easier to use and interpret in the end.  After running many different combinations of deep learning models all getting to about 73% accuracy, it is recommended that a different model be applied to try and achieve the target model perforance of 75%. To do this the recommendation is to compare the deep learning model with both a SVM and a random forest classifier model. The support vector models are less prone to overfitting but can still handle complex data by classifying two groups. The advantage of the random forest classifier is that it can learn from the weak learners and be easier to interpret. It would also be worthwhile to run the model and determine which are the best features since the deep learning models ran different features without much change.
+
+
+### Contact
+[Contact Emily](mailto:emaynard10@gmailcom)
